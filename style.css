@@ -1,0 +1,65 @@
+.navbar-brand{
+
+    font-family: cursive;
+    text-transform: uppercase;
+    background-color: cornsilk;
+    padding: 13 10;
+    font-weight: bold;
+
+}
+
+.navbar-nav{
+    padding-left:60px;
+    padding-right:60px;
+    color: antiquewhite;
+    font-family: fantasy;
+    text-transform: capitalize;
+  }
+
+.card-img-top{
+    height:350px;
+}
+
+.carousel-caption{
+    background-color:midnightblue;
+        color:orange;
+        align-content: stretch;
+}
+
+.d-block{
+    height:450px;
+    width:350px;
+}
+
+.card{
+    padding-top: 23px;
+}
+
+.card-title{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card-body{
+    background-color: lightsteelblue;
+}
+
+.bd-example{
+    padding: 10 30;
+}
+
+.card-group{
+    padding-top: 15px;
+}
+
+.card-body1{
+    background-color: lemonchiffon;
+}
+
+.card-body2{
+    background-color: azure;
+}
+
+.card-body3{
+    background-color: moccasin;
+}
